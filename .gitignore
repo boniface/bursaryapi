@@ -8,3 +8,6 @@ target
 /.project
 /.settings
 /RUNNING_PID
+.github/
+project/project/
+sbt-dist/
